@@ -1,0 +1,8 @@
+Algorithm to find the second largest number in a list of numbers is as follows:
+
+1.Read list
+2.Initialize two variables,largest and second_largest 
+3.Loop through each number in the list.
+4.If the number is greater than the largest,make the second_largest to largest and largest as the current number.
+5.Otherwise, if the number is greater than the second_largest,make the second_largest as the current number.
+6.After the loop, the second_largest variable will contain the second largest number in the list.
