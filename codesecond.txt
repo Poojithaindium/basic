@@ -1,3 +1,4 @@
+//code for finding second largest number
 num=list(map(int,input().split()))
 largest = 0
 second_largest =0
